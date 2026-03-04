@@ -1,3 +1,9 @@
+# Important!
+choosenim development has been moved to an official Nim repo: [nim-lang/choosenim](https://github.com/nim-lang/choosenim)
+
+Please make pull requests in the new repo. Thank you.
+
+
 # choosenim
 
 choosenim installs the [Nim programming language](https://nim-lang.org) from
